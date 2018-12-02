@@ -1,0 +1,5 @@
+X6w9uNMr8IWJHJqjBt4oVm7JsKEdprELasiodoraBaUr3DQbub1WIebu5W4c4fmhlnGo6EE3zcKcdcocincinusz6IeVk0Dwh45BgVEVIE201ehvRhpdAvMDjffyLTP8xpE8eOI1Trl5zXb7Njsjyv5IXFZufaVf6.
+31 39 77 86
+
+## str[31:40] + ' ' + str[77:87]
+'Lasiodora cocincinus'
